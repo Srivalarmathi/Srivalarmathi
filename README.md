@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Srivalarmathi
-- 👀 I’m interested in Mathematics, Data Analytics, PowerBI, Writing &Drawing..
-- 🌱 
-- 💞️ 
-- 📫 How to reach me email ID:valarsri@gmail.com
+# 👩‍💻 Valarmathi — Data Scientist | Deep Learning Specialist | AI & Analytics Architect
 
-<!---
-Srivalarmathi/Srivalarmathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔬 Passionate about:
+- Predictive Modeling & Time Series Forecasting  
+- Neural Networks (LSTM, CNN, Transformers)  
+- MetaTrader 5 Algorithmic Trading Systems  
+- Data Engineering & Feature Engineering  
+- Model Evaluation, Backtesting, and Live Deployment  
+- Power BI Dashboards & Business Intelligence  
+- Python, PyTorch, Scikit-learn, Pandas, NumPy  
+
+🚀 Delivering real-world impact through structured pipelines, scalable models, and intelligent automation.
